@@ -1,5 +1,7 @@
 
-function Test(){
-    console.log('testing...');
+function Test(name,id){
+    console.log(name,id);
 }
-Test();
+Test('sirojiddin',1);
+Test('sirojiddin2',2);
+Test('sirojiddin3',3);
